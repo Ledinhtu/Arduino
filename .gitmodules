@@ -1,0 +1,3 @@
+[submodule "Arduino_KNN/examples/Arduino_KNN"]
+	path = Arduino_KNN/examples/Arduino_KNN
+	url = https://github.com/arduino-libraries/Arduino_KNN.git
